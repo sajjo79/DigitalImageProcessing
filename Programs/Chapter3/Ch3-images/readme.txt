@@ -1,1 +1,1 @@
-This is readme file for images folder
+You will need to set the image paths in order to programs to work.
